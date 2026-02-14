@@ -1,0 +1,7 @@
+{
+  "name": "Decentralized QR Attendance",
+  "description": "A secure, decentralized attendance system using Gun.js and QR codes. Features admin dashboard, student check-in with geolocation, and CSV export.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
